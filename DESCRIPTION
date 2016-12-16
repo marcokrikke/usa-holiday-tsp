@@ -1,7 +1,7 @@
 Package: usa-holiday-tsp
 Title: TSP solver for my USA holiday
 Version: 1.0.0
-Authors@R: person("Marco", "Krikke", role = c("aut", "cre"))
+Authors@R: person("Marco", "Krikke", email="fake@email.com" role = c("aut", "cre"))
 Description: TSP solver for my USA holiday
 Depends: R (>= 3.1.0)
 Imports: TSP (>= 1.1)
